@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# ScenesRenz
+#
+
+projectname: ScenesRenz
+vendorid: com.renz.mycompany
+mainmodule: com.renz.mycompany.scenesrenz
